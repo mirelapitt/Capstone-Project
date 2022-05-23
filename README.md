@@ -51,8 +51,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip Cindy Shin the author of the original design
-- Inspiration
-- etc
+- Hat tip Cindy Shin the author of the original design and inspiration
+- Background pattern [subtlepatterns](https://www.toptal.com/designers/subtlepatterns/)
+- Images icons [Icons icon8](https://icons8.com/)
+- Images [images unsplash](https://unsplash.com/)
 
 
