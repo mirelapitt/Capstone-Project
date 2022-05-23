@@ -2,7 +2,7 @@
 
 # Capstone Project
 
-> This project is part of the Microverse Program in which is resquested to do a Capstone Project based on an online website for a conference using Javascript, HTML and CSS. But instead, in this Capstone is project I personalized the content and created a website about a Gaming Convention in 2022. The structure of this project was built using mobile first approach and follows these [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+> This project is part of the Microverse Program in which is resquested to do a Capstone Project based on an online website for a conference using Javascript, HTML and CSS. But instead, in this Capstone is project I personalized the content and created a website about a Fashion Conference in 2022. The structure of this project was built using mobile first approach and follows these [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
 
 ## Live Demo
 
