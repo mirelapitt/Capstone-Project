@@ -315,7 +315,7 @@ hr {
     background-color: #fff;
     display: flex;
     gap: 30px;
-    margin-left: 43px;
+    margin-left: 30%;
     padding-top: 30px;
 }
 
@@ -432,7 +432,7 @@ hr {
     background-color: #fff;
     display: flex;
     gap: 30px;
-    margin-left: 43px;
+    margin-left: 30%;
     padding-top: 30px;
 }
 
@@ -709,10 +709,10 @@ hr {
     /* FOOTER */
     .foot {
         width: 100%;
-        height: calc(100% + 80px);
+        margin-top: 294px;
         padding: 40px 10px;
         background-color: #272A31;
-        margin-top: 81px;
+        margin-top: 293px;
     }
 
     .foot-heading {
@@ -973,4 +973,17 @@ hr {
     color: white;
   }
 
+  .nav-button:hover {
+    cursor: pointer;
+    background-color: #fff;
+    color: #ec5242;
+  }
+ 
+  .nav-button {
+    border: #fff 2px solid;
+    background-color: #ec5242;
+    color: #fff;
+    padding: 5px;
+    font-size: 40px;
+}
 }
