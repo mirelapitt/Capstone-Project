@@ -12,15 +12,3 @@ hideMenu.onclick = function hideMenu() {
 closeMenu.onclick = function hideMenu() {
   navLinks.style.left = '-100%';
 };
-
-
-
-
-
-
-
-
-
-
-
-
