@@ -877,3 +877,68 @@ text-align: center;
   }
 
 }
+
+@media only screen and (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  .before-nav {
+    display: none;
+  }
+
+  .box {
+    gap: 20px;
+    margin: 20px;
+  }
+
+  .logo {
+    display: none;
+  }
+
+  .burger {
+    padding: 10%;
+    cursor: pointer;
+  }
+
+  .line {
+    display: block;
+    width: 25px;
+    height: 4px;
+    margin: 0 0 5px 0;
+    background-color: #757070;
+  }
+
+  .fa-xmark {
+    color: white;
+    float: right;
+    font-size: 25px;
+    margin: 5% 10%;
+  }
+
+  .nav-links {
+    width: 100%;
+    height: 100vh;
+    background: #ec5242;
+    opacity: 0.97;
+    top: 0;
+    margin: 0;
+    position: fixed;
+    transition: 1s;
+    left: -100%;
+  }
+
+  .desktop-navlinks {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 76px;
+  }
+
+  .nav-links a {
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+  }
+
+}
