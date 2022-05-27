@@ -55,4 +55,3 @@ Give a ⭐️ if you like this project!
 - Background pattern [subtlepatterns](https://www.toptal.com/designers/subtlepatterns/)
 - Images icons [Icons icon8](https://icons8.com/)
 - Images [images unsplash](https://unsplash.com/)
-
