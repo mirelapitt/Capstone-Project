@@ -962,7 +962,6 @@ hr {
     opacity: 0.97;
     top: 0;
     margin: 0;
-    position: fixed;
     transition: 1s;
     left: -100%;
     position: absolute;
