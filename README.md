@@ -10,7 +10,9 @@
 
 ## Video
 
-In the following link I am explaining the capstone project: https://www.loom.com/share/6e96e3be25c34e989ca2f1789bc51955
+In the following link I am explaining the capstone project:
+
+https://www.loom.com/share/6e96e3be25c34e989ca2f1789bc51955
 
 ## Built With
 
@@ -22,13 +24,31 @@ In the following link I am explaining the capstone project: https://www.loom.com
 - Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
 - ESLint
 
-## Prerequisites
+## Getting Started
 
-The basic requirements for building the executable are:
+To get a local copy up and running follow these simple steps.
 
-- A working browser application (Google chrome, Mozilla Fire fox, Microsoft edge ...)
-- VSCode or any other equivalent code editor
-- Node Package Manager (For installing packages like Lighthous, webhint & stylelint used for checking for debugging bad codes before deployment)
+### Prerequisites
+
+- A web browser (e.g. Mozilla Firefox, Google Chrome etc.)
+- git: This is a version control system used for source code management.
+- A text editor (e.g Visual Studio Code (recommended), Sublime Text, Atom etc.)
+- Live Server: A web extension utility for Visual Studio Code that helps you live reload feature for dynamic pages.
+
+### Setup
+
+- With git, clone the code to your machine.
+- run the following [git](https://git-scm.com/) command to clone the files to your machine:
+
+```
+git clone git@github.com:mirelapitt/Capstone-Project.git
+```
+
+- Once the files are on your machine, open the **Capstone-Project** folder in [Visual Studio Code](https://code.visualstudio.com/download).
+
+## Deployment
+
+- After opening the files in Visual Studio Code, press the **Go Live** button on the status bar (bottom of the window) to launch the files with Live Server.
 
 ## Authors
 
@@ -55,5 +75,3 @@ Give a ⭐️ if you like this project!
 - Background pattern [subtlepatterns](https://www.toptal.com/designers/subtlepatterns/)
 - Images icons [Icons icon8](https://icons8.com/)
 - Images [images unsplash](https://unsplash.com/)
-
-
