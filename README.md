@@ -6,11 +6,11 @@
 
 ## Live Demo
 
-Live Demo link
+[Live Demo link](https://mirelapitt.github.io/Capstone-Project/)
 
 ## Video
 
-In the following link I am explaining the capstone project.
+In the following link I am explaining the capstone project: https://www.loom.com/share/6e96e3be25c34e989ca2f1789bc51955
 
 ## Built With
 
