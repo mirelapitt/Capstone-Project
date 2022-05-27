@@ -87,6 +87,10 @@ body {
   display: none;
 }
 
+.logo {
+  margin-top: -14px;
+}
+
 .logo a {
   font-size: 1.5rem;
   color: rgb(0, 0, 0);
@@ -199,6 +203,11 @@ hr {
   border: none;
   margin: 10px 0 50px 0;
   margin-left: 15%;
+}
+
+.join-button:hover {
+  background-color: white;
+  color: #ec5242;
 }
 
 .hide-on-mobile {
@@ -343,15 +352,13 @@ hr {
 
 .logo h3 {
   font-size: 26px;
-  color: #ec5242;
+  margin: 27px auto;
 }
 
-.rights h4 {
-  color: #ec5242;
-}
-
-.rights span {
-  color: #ec5242;
+.logo-about h3 {
+  font-size: 27px;
+  margin: 27px auto;
+  color: #fff;
 }
 
 /* ABOUT SECTION */
@@ -504,6 +511,8 @@ hr {
     background-color: #fff;
     margin-top: -1px;
     height: 35px;
+    padding-top: 35px;
+    padding-bottom: 35px;
   }
 
   .logo a {
@@ -640,8 +649,13 @@ hr {
     margin: 2px;
   }
 
-  .join-button {
-    display: none;
+  .box:hover {
+    border: #d3d3d3 solid;
+  }
+
+  .join-button:hover {
+    background-color: white;
+    color: #ec5242;
   }
 
   .hide-on-mobile {
@@ -773,16 +787,16 @@ hr {
 
   .logo h3 {
     font-size: 42px;
-    color: #ec5242;
+  }
+
+  .logo-about h3 {
+    font-size: 42px;
+    margin: 27px auto;
+    color: #fff;
   }
 
   .rights h4 {
-    color: #ec5242;
     margin: 27px auto;
-  }
-
-  .rights span {
-    color: #ec5242;
   }
 
   .sm-line {
@@ -992,5 +1006,9 @@ hr {
     cursor: pointer;
     background-color: #fff;
     color: #ec5242;
+  }
+
+  .box:hover {
+    border: #d3d3d3 solid;
   }
 }
