@@ -10,7 +10,9 @@
 
 ## Video
 
-In the following link I am explaining the capstone project: https://www.loom.com/share/6e96e3be25c34e989ca2f1789bc51955
+In the following link I am explaining the capstone project:
+
+https://www.loom.com/share/6e96e3be25c34e989ca2f1789bc51955
 
 ## Built With
 
@@ -42,7 +44,7 @@ To get a local copy up and running follow these simple steps.
 git clone git@github.com:mirelapitt/Capstone-Project.git
 ```
 
-- Once the files are on your machine, open the **Capstone Project** folder in [Visual Studio Code](https://code.visualstudio.com/download).
+- Once the files are on your machine, open the **Capstone-Project** folder in [Visual Studio Code](https://code.visualstudio.com/download).
 
 ## Deployment
 
