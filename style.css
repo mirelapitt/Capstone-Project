@@ -346,7 +346,8 @@ hr {
   background-color: #fff;
   display: flex;
   gap: 30px;
-  margin-left: 30%;
+  margin-left: 12%;
+  margin-right: 10%;
   padding-top: 30px;
 }
 
@@ -358,7 +359,7 @@ hr {
 .logo-about h3 {
   font-size: 27px;
   margin: 27px auto;
-  color: #fff;
+  color: #000;
 }
 
 /* ABOUT SECTION */
@@ -460,7 +461,8 @@ hr {
   background-color: #fff;
   display: flex;
   gap: 30px;
-  margin-left: 30%;
+  margin-left: 12%;
+  margin-right: 10%;
   padding-top: 30px;
 }
 
@@ -653,6 +655,10 @@ hr {
     border: #d3d3d3 solid;
   }
 
+  .join-button {
+    margin: 27px auto;
+  }
+
   .join-button:hover {
     background-color: white;
     color: #ec5242;
@@ -782,10 +788,11 @@ hr {
     background-color: #fff;
     display: flex;
     gap: 30px;
-    margin-left: 255px;
+    margin-left: 412px;
   }
 
   .logo h3 {
+    color: #000;
     font-size: 42px;
   }
 
@@ -907,7 +914,7 @@ hr {
     width: 100%;
     display: flex;
     gap: 30px;
-    margin-left: 255px;
+    margin-left: 412px;
   }
 
   .foot-about {
@@ -920,10 +927,12 @@ hr {
 
   .close-foot h3 {
     margin: 27px auto;
+    margin-top: 7px;
   }
 
   .about-close-foot h3 {
     margin: 27px auto;
+    margin-top: -9px;
   }
 
   .about-close-foot p {
@@ -945,7 +954,7 @@ hr {
     margin: 20px;
   }
 
-  .logo {
+  .logo a {
     display: none;
   }
 
@@ -1010,5 +1019,11 @@ hr {
 
   .box:hover {
     border: #d3d3d3 solid;
+  }
+
+  .foot-about ul{
+    display: flex;
+    gap: 21px;
+    padding: 10px;
   }
 }
