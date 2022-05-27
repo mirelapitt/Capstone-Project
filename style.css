@@ -466,6 +466,12 @@ hr {
   padding-top: 30px;
 }
 
+.foot-home ul {
+  display: flex;
+  gap: 21px;
+  padding: 10px;
+}
+
 @media (min-width: 768px) {
   body {
     font-family: "Lato", sans-serif;
@@ -938,6 +944,12 @@ hr {
   .about-close-foot p {
     color: #fff;
   }
+
+  .foot-home ul {
+    display: flex;
+    gap: 21px;
+    padding: 10px;
+  }
 }
 
 @media only screen and (max-width: 768px) {
@@ -1021,7 +1033,7 @@ hr {
     border: #d3d3d3 solid;
   }
 
-  .foot-about ul{
+  .foot-about ul {
     display: flex;
     gap: 21px;
     padding: 10px;
