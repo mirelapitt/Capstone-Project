@@ -472,6 +472,11 @@ hr {
   padding: 10px;
 }
 
+.logo-image {
+  width: 80px;
+  height: 80px;
+}
+
 @media (min-width: 768px) {
   body {
     font-family: "Lato", sans-serif;
@@ -917,10 +922,8 @@ hr {
 
   .about-close-foot {
     background-color: #272a31;
-    width: 100%;
-    display: flex;
-    gap: 30px;
-    margin-left: 412px;
+    color: #fff;
+    padding-left: 270px;
   }
 
   .foot-about {
@@ -932,13 +935,15 @@ hr {
   }
 
   .close-foot h3 {
-    margin: 27px auto;
+    margin: -3px;
     margin-top: 7px;
   }
 
   .about-close-foot h3 {
-    margin: 27px auto;
+    margin: -3px;
     margin-top: -9px;
+    font-size: 25px;
+    margin-top: 8px;
   }
 
   .about-close-foot p {
@@ -1037,5 +1042,9 @@ hr {
     display: flex;
     gap: 21px;
     padding: 10px;
+  }
+
+  .foot-about {
+    color: #fff;
   }
 }
